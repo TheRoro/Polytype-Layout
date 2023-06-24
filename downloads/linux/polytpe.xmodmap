@@ -1,0 +1,29 @@
+keycode  24 = q Q q Q
+keycode  25 = w W w W
+keycode  26 = h H h H
+keycode  27 = p P p P
+keycode  28 = f F f F
+keycode  29 = u U u U
+keycode  30 = y Y y Y
+keycode  31 = g G g G
+keycode  32 = j J j J
+keycode  33 = semicolon colon semicolon colon
+
+keycode  38 = a A a A
+keycode  39 = s S s S
+keycode  40 = d D d D
+keycode  41 = t T t T
+keycode  42 = l L l L
+keycode  43 = r R r R
+keycode  44 = n N n N
+keycode  45 = e E e E
+keycode  46 = i I i I
+keycode  47 = o O o O
+
+keycode  52 = z Z z Z
+keycode  53 = x X x X
+keycode  54 = c C c C
+keycode  55 = v V v V
+keycode  56 = b B b B
+keycode  57 = k K k K
+keycode  58 = m M m M
