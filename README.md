@@ -6,9 +6,9 @@
 
 [Image that shows the changed letters relative to QWERTY]
 
-The Polytype Layout offers a seamless solution for individuals who frequently type in multiple languages, striving to deliver unparalleled comfort and convenience. Unlike traditional keyboard layouts, this innovative design prioritizes the most frequently used letter combinations, or bigrams, not only in English but also in Spanish and Portuguese. This inclusive approach makes the Polytype Layout particularly beneficial for polyglots—hence its name—as it enables them to effortlessly switch between their native language and English while typing.
+The **Polytype Layout** offers a seamless solution for individuals who frequently type in _multiple languages_, striving to deliver unparalleled comfort and convenience. Unlike traditional keyboard layouts, this innovative design prioritizes the _most frequently_ used letter combinations, or bigrams, not only in **English** but also in **Spanish** and **Portuguese**. This inclusive approach makes the Polytype Layout particularly beneficial for _polyglots_—hence its name—as it enables them to effortlessly switch between their native language and English while typing.
 
-By meticulously considering the bigrams that occur most frequently in these languages, the Polytype Layout ensures that users can optimize their typing experience regardless of the language they are composing in. Whether you're a proficient polyglot or simply someone who frequently communicates in multiple languages, this layout offers an intuitive and efficient solution that adapts to your needs.
+By meticulously considering the [bigrams](https://en.wikipedia.org/wiki/Bigram) that occur most frequently in these languages, the Polytype Layout ensures that users can optimize their typing experience regardless of the language they are composing in. Whether you're a _proficient polyglot_ or simply someone who frequently communicates in _multiple languages_, this layout offers an intuitive and efficient solution that adapts to your needs.
 
 Experience the Polytype Layout and discover a new level of typing comfort and efficiency for your multilingual endeavors. Say goodbye to the limitations of traditional keyboard layouts and embrace the versatility and convenience of the Polytype Layout.
 
@@ -29,11 +29,11 @@ Experience the Polytype Layout and discover a new level of typing comfort and ef
 
 ## Choosing the Right Keyboard Layout: Exploring the Advantages of the Polytype Layout
 
-"Why?" you may ask. Well, having experienced both QWERTY and Colemak layouts myself, I've come to appreciate that each layout possesses its own unique strengths and weaknesses, which can vary depending on the individual and their specific needs. For example, a programmer who frequently uses Vim might not prioritize shortcuts like Ctrl+Z, Ctrl+X, Ctrl+C, and Ctrl+V since they may not rely on them as much. On the other hand, individuals who heavily depend on these classic shortcuts would consider them indispensable.
+"Why?" you may ask. Well, having experienced both [QWERTY](https://en.wikipedia.org/wiki/QWERTY) and [Colemak](https://en.wikipedia.org/wiki/Colemak) layouts myself, I've come to appreciate that each layout possesses its own unique strengths and weaknesses, which can vary depending on the individual and their specific needs. For example, a programmer who frequently uses Vim might not prioritize shortcuts like `Ctrl+Z`, `Ctrl+X`, `Ctrl+C`, and `Ctrl+V` since they may not rely on them as much. On the other hand, individuals who heavily depend on these classic shortcuts would consider them indispensable.
 
-Moreover, different use cases call for different priorities. Gamers who predominantly use the WASD keys for gaming may prioritize a layout that accommodates this requirement. Conversely, proficient typists who have become accustomed to the placement of the comma and period keys may find it disruptive to change their location.
+Moreover, different use cases call for different priorities. Gamers who predominantly use the **WASD keys** for gaming may prioritize a layout that accommodates this requirement. Conversely, proficient typists who have become accustomed to the placement of the _comma_ and _period keys_ may find it disruptive to change their location.
 
-Regardless of your specific needs, there are numerous ergonomic and finger-friendly keyboard layouts available, all of which offer substantial advantages over QWERTY. So, any choice you make is a step towards improvement. However, allow me to present a chart that highlights one of the greatest strengths of the Polytype Layout.
+Regardless of your specific needs, there are numerous ergonomic and finger-friendly keyboard layouts available, all of which offer _substantial advantages over QWERTY_. So, \*any choice you make is a step towards **improvement\***. However, allow me to present a chart that highlights one of the greatest strengths of the **Polytype Layout**.
 
 <table cellpadding="4">
   <tbody><tr>
@@ -227,10 +227,10 @@ Regardless of your specific needs, there are numerous ergonomic and finger-frien
 
 [Chart that showcases the unchanged letters relative to QWERTY for a list of alternative layouts]
 
-As you can observe, the Polytype Layout boasts one of the highest numbers of unchanged letters compared to QWERTY. This means that if you're transitioning from QWERTY, you'll find it easier to learn the Polytype Layout compared to other alternatives. It's worth noting that Polytype draws significant inspiration from Colemak (you may have noticed the similarity in the right home row), so if you're already familiar with Colemak, you'll only need to make adjustments to 10 letters in your layout.
+As you can observe, the **Polytype Layout** boasts one of the _highest numbers_ of **unchanged letters** compared to QWERTY. This means that if you're transitioning from QWERTY, you'll find it easier to learn the Polytype Layout compared to other alternatives. It's worth noting that Polytype draws significant inspiration from [Colemak](https://en.wikipedia.org/wiki/Colemak) (you may have noticed the similarity in the right home row), so if you're already familiar with Colemak, you'll only need to make adjustments to 10 letters in your layout.
 
 ![Polytype - Highlighted letters (Colemak).png](https://raw.githubusercontent.com/TheRoro/Polytype-Layout/main/images/polytype_letters_changed_colemak.png "Polytype - Highlighted letters (Colemak)")
 
 [Image that showcases the unchanged letters relative to Colemak]
 
-When considering a new keyboard layout, it's essential to find one that aligns with your specific requirements. The Polytype Layout offers a compelling combination of familiarity, ergonomic design, and improved typing efficiency, making it a promising option to enhance your typing experience.
+When considering a new keyboard layout, it's essential to find one that aligns with your _specific requirements_. The **Polytype Layout** offers a compelling combination of familiarity, ergonomic design, and improved typing efficiency, making it a promising option to _enhance your typing experience_.
