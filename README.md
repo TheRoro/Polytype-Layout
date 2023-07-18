@@ -234,3 +234,5 @@ As you can observe, the **Polytype Layout** boasts one of the _highest numbers_ 
 [Image that showcases the unchanged letters relative to Colemak]
 
 When considering a new keyboard layout, it's essential to find one that aligns with your _specific requirements_. The **Polytype Layout** offers a compelling combination of familiarity, ergonomic design, and improved typing efficiency, making it a promising option to _enhance your typing experience_.
+
+Made with 🦔 by [@TheRoro](https://github.com/TheRoro)
